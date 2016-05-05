@@ -1,0 +1,13 @@
+100 - Hosted on Heroku (Required) - IMPLEMENTED
+100 - Custom domain name (Required) - IMPLEMENTED
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish)  - IMPLEMENTED
+300 - 4 complete HTML pages with content  - IMPLEMENTED
+600 - Custom programming that matches your Heroku instance (Node.js, Rails, etc) <- Your final project should be _mostly_ code. - IMPLEMENTED
+200 - Custom CSS or Bootstrap for design (all pages)  - IMPLEMENTED
+100 - Use a Heroku add-on in your project
+100 - Use a Heroku button install (https://elements.heroku.com/buttons)
+50 - Use at least two custom images (original photography or illustration)
+50 - Integrate a JavaScript component
+50 - Integrate non-Heroku 3rd party widget
+50 - Use a 3rd party font icon like FontAwesome
+
